@@ -88,3 +88,11 @@ probably need to do next.
 - [ ] Fix errors as needed.
 - [ ] Create GTK3 versions of all themes.
 - [ ] Create updated screenshots to share on r/unixporn :cat:
+
+## Reporting Bugs
+
+If these themes don't work, or if they drink all your beer or seduce your 
+partner or do anything else nefarious, please file an issue. If you don't have
+a Github account and can't be bothered to create one, you can also reach me
+by email at [public@matthewgraybosch.com](mailto://public@matthewgraybosch.com)
+or try tweeting to [@MGraybosch](https://twitter.com/MGraybosch).
