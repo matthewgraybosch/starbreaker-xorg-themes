@@ -8,10 +8,9 @@ They got archived on the Wayback Machine, where they eventually caught the
 attention of a Devuan developer who asked me to place them under source control
 so that they could more easily be packaged.
 
-Because I have not tested or maintained these themes since 2004, *there is no
-guarantee that they will work*. However, I've inspected each theme and 
-personally verified that they contain no executable code, so the worst that 
-might happen is that using one of themes might crash your X session.
+I have tested these themes under Devuan Ascii (Testing) using Openbox 3.6.1 
+and lxappearance 0.6.3, and can confirm that these themes remain compatible 
+with Openbox and GTK 2.x.
 
 ## Installation
 
@@ -21,7 +20,13 @@ and then copy the theme folders to one of the following directories.
 * $HOME/.themes/
 * $HOME/.local/share/themes/
 
+You can also use the included ```install.sh``` script.
+
 Watch this space for distribution-specific installation instructions.
+
+## Removal
+
+I've included an ```uninstall.sh``` shell script for your convenience. Just run it from your terminal.
 
 ## Themes Included
 
