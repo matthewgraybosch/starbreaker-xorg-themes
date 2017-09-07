@@ -82,14 +82,14 @@ If people are going to package these themes for Linux distributions, I suppose
 I should act like an upstream maintainer and maintain them. This is what I
 probably need to do next.
 
-- [ ] Test all themes under current version of Openbox and lxappearance
-  - [ ] Test "Dark Eternal"
-  - [ ] Test "Foxfire"
-  - [ ] Test "Energistic"
-  - [ ] Test "Visible Spectrum"
-  - [ ] Test "Biomechanical"
-  - [ ] Test "Infrared"
-  - [ ] Test "Preternatural"
+- [x] Test all themes under current version of Openbox and lxappearance
+  - [x] Test "Dark Eternal"
+  - [x] Test "Foxfire"
+  - [x] Test "Energistic"
+  - [x] Test "Visible Spectrum"
+  - [x] Test "Biomechanical"
+  - [x] Test "Infrared"
+  - [x] Test "Preternatural"
 - [ ] Fix errors as needed.
 - [ ] Create GTK3 versions of all themes.
 - [ ] Create updated screenshots to share on r/unixporn :cat:
